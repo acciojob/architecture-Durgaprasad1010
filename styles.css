@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+ .main-container {
+        width: 1100px;
+        margin-inline: auto;
+        background-color: #cbd6cb;
+        padding: 12px;
+      }
+      .imageContainer img {
+        width: 400px;
+      }
+      table {
+        width: 100%;
+        border: 1px solid black;
+      }
+      table img {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      tr,
+      td {
+        border: 1px solid black;
+      }
+      .table-img {
+        width: 200px;
+      }
+      .table-text {
+        width: 600px;
+      }
